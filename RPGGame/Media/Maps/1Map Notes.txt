@@ -1,0 +1,13 @@
+************
+TestMapOne - Cheku Bazaar (small)
+Area: Kainneg District
+Textures: None
+************
+TestMapTwo - Desert Hills (medium)
+Area: Savvanah Desert
+Textures: None
+FAILED
+************
+TestMapThree - Rilohn Passage (small)
+Area: Izhtan Island
+Textures: Grass, GreyRock, UrnSkin
